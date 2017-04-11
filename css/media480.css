@@ -1,0 +1,170 @@
+
+
+
+
+
+/*@media (min-width : 321px) and (max-width : 480px) {
+
+    .glavn_desktop_ts>h1{
+			font-size: 45px;
+			text-align:center;
+			margin-left: -5px;
+			margin-top: 90px;
+    	}
+		.glavn_desktop>h3{
+			font-size: 25px;
+			text-align:center;
+			margin-left: -5px;
+			margin-top: 50px;
+    	}
+			.glavn_desktop>b>button{
+				margin-left: -120px;
+				margin-top: 50px;
+			}
+				.section_info_more>h3{
+					text-align: center;
+					
+		    	}
+		    	.section_what>h2{
+					text-align: center;
+					
+		    	}
+
+
+				.loading_info_disign{
+					margin-left: 830px;
+				}
+		    	.section_disign{
+					margin-left: -840px;
+					
+		    	}
+
+			.loading_process_disign_color{
+				margin-right: 21px;
+			}
+
+
+		    	.section_coding{
+					margin-left: -440px;
+					
+		    	}
+
+			.loading_process_coding{
+				margin-right: -14px;
+
+			}
+
+			.loading_process_coding_color{
+				margin-left: 330px;
+				margin-right: 80px;
+
+			}
+
+			.loading_procent_coding{
+				margin-left: 610px;
+			}
+
+		    .section_marketing{
+					margin-left: -440px;
+					
+		    	}
+
+			.loading_process_marketing{
+				margin-right: -14px;
+
+			}
+
+			.loading_process_marketing_color{
+				margin-left: 330px;
+				margin-right: 150px;
+
+			}
+
+			.loading_procent_marketing{
+				margin-left: 539px;
+			}
+				
+
+
+			.first_name{
+				padding-bottom: 10px;
+			}
+			.last_name{
+				padding-bottom: 10px;
+			}
+			.email_address{
+				padding-bottom: 10px;
+			}
+
+			.subscribe_button{
+				padding-left: 60px;
+				padding-top: 10px;
+			}
+
+
+				
+			.card_portfolio_1:hover>.pop_up_window_1 {
+				margin-top: -100px;
+			}
+
+			.pop_up_window_1>.info>h1{
+				font-size: 12px; /* Приближение из-за подстановки шрифтов */
+				
+			}
+
+
+				.card_portfolio_2:hover>.pop_up_window_2 {
+				margin-top: -100px;
+			}
+
+			.pop_up_window_2>.info>h1{
+				font-size: 12px; /* Приближение из-за подстановки шрифтов */
+				
+			}
+
+
+				.card_portfolio_3:hover>.pop_up_window_3 {
+				margin-top: -100px;
+			}
+
+			.pop_up_window_3>.info>h1{
+				font-size: 12px; /* Приближение из-за подстановки шрифтов */
+				
+			}
+				
+
+
+			input[name="contacts_name"]{
+				width: 100%;
+				}
+
+			input[name="contacts_address"]{
+				width: 100%;
+				}
+
+			input[name="contacts_city"]{
+				width: 100%;
+				}
+			input[name="contacts_email_address"]{
+				width: 100%;
+				}
+
+			textarea[name="contacts_commentary"]{
+				width: 100%;
+			}
+			
+			.subscribe_button_contacts{
+				margin-right: 15px;
+				margin-top: 25px;
+			}
+
+			.navigator_footer>a{
+				text-decoration: none;
+				border: none;
+				color: #ffffff;
+				padding-left: 12px;
+			}
+
+
+		}
+	
